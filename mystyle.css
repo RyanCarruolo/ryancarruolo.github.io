@@ -16,5 +16,5 @@ p {
 
 Div {
   border: 5px orange;
-  float: right;
+  margin-right: 3px;
 }
