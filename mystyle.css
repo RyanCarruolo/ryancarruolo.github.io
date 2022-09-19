@@ -12,5 +12,9 @@ table {
 
 p {
   color: #FFFFFF;
-  text-align: center;
+}
+
+Div {
+  border: 5px orange;
+  float: right;
 }
