@@ -14,7 +14,16 @@ p {
   color: #FFFFFF;
 }
 
-Div {
+#Div {
   border: 5px orange;
   margin-right: 350px;
+}
+
+#Hockey {
+  width: 250px;
+  float: left;
+}
+#URILogo {
+  width 250px;
+  float: right;
 }
